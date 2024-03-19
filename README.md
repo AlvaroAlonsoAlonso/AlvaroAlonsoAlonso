@@ -1,8 +1,8 @@
 ![Mi imagen](assets/banner4.png)
 
-# Hola soy Álvaro👋
+# Hola👋!!!
 
-Un humilde desarrollador frontend que hace autenticas **OBRAS DE ARTE**.
+Soy Álvaro un humilde desarrollador frontend que hace autenticas **OBRAS DE ARTE**.
 
 - 🔭 Actualmente estoy trabajando como frontend developer, gestionado proyecto...etc
 
