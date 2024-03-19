@@ -11,9 +11,9 @@ Un humilde desarrollador frontend que hace autenticas **OBRAS DE ARTE**.
 - **HTML**
 - **CSS**
 - **SASS**
-- **GIT**
 - **JavaScript**
-- **Frameworks/Librerias**:  Vue 3, Nuxt 3 ,Astro etc.
+- **GIT**
+- **Frameworks/Librerias**:  Vue , Nuxt , Astro.
 - **Herramientas de desarrollo**: Visual Studio Code, Chrome Developer Tools, etc.
 
 ## 📚 Aprendizaje continuo
@@ -24,6 +24,13 @@ Un humilde desarrollador frontend que hace autenticas **OBRAS DE ARTE**.
 
 - ¿Sabías que el primer sitio web fue creado por Tim Berners-Lee en 1990?
 - El aliento de gato huele a comida de gato.
+- 
+## 😄 Frases miticas en la oficina.
+
+- Si no sabes, punto 3 (Si no sabes que es el punto 3, pues punto 3)
+- Pero Si es muy facil aj aj aj aj  🐦
+- Yo estoy bien.
+- Juan.. JUAAAAAAN.
 
 ## 📈 Proyectos propios
 
