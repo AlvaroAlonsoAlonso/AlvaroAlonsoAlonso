@@ -6,7 +6,7 @@ Un humilde desarrollador frontend que hace autenticas **OBRAS DE ARTE**.
 
 - 🔭 Actualmente estoy trabajando como frontend developer, gestionado proyecto...etc
 
-## 🛠️ Herramientas y tecnologías que utilizó
+## 🛠️ Herramientas y tecnologías que utilizo
 
 - **HTML**
 - **CSS**
