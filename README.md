@@ -23,7 +23,7 @@ Un humilde desarrollador frontend que hace autenticas **OBRAS DE ARTE**.
 ## ⚡ Curiosidades
 
 - ¿Sabías que el primer sitio web fue creado por Tim Berners-Lee en 1990?
-- El aliento de gato huele as comida de gato.
+- El aliento de gato huele a comida de gato.
 
 ## 📈 Proyectos 
 
