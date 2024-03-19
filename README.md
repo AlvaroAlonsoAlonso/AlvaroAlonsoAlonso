@@ -19,7 +19,6 @@ Un humilde desarrollador frontend que hace autenticas **OBRAS DE ARTE**.
 ## 📚 Aprendizaje continuo
 
 - Actualmente estoy aprendiendo sobre accesibilidad web y cómo mejorar la experiencia de usuario en aplicaciones web.
-
 <!--## ⚡ Curiosidades
 
 - ¿Sabías que el primer sitio web fue creado por Tim Berners-Lee en 1990?
