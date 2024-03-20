@@ -31,6 +31,11 @@ Soy Álvaro un humilde desarrollador frontend que hace autenticas **OBRAS DE ART
 - Juan!! JUAAAAAAN!!.
 - Verdes las han segado.
 - ¿Sabes que es la suposición? la mayor de todas las cagadas.
+- ¿Y estas ramas?, tienes que eliminarlas. `Dejalas mis ramas son divergentes`.
+- console.log('COJONESS').
+- En mi local funciona.
+- ¿Has borrado cache?
+- Dios, tremenda ñapa.
 
 ## 📈 Proyectos propios
 
