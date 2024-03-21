@@ -37,7 +37,7 @@ Soy Álvaro un humilde desarrollador frontend que hace autenticas **OBRAS DE ART
 - ¿Has borrado cache?
 - Dios, tremenda ñapa.
 - Se ha caído la web ¿Lo sabes?. `Lo sé, es más te voy a decir como lo he hecho`
-- Que asco tio!!`con acento portugués`
+- Que asco tio!!`[Frase dicha con acento portugués]`
 
 ## 📈 Proyectos propios
 
