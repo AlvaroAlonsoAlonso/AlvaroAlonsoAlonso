@@ -39,6 +39,7 @@ Soy Álvaro un humilde desarrollador frontend que hace autenticas **OBRAS DE ART
 - Se ha caído la web ¿Lo sabes?. `Lo sé, es más te voy a decir como lo he hecho`
 - Que asco tio!!`[Frase dicha con acento portugués]`
 - ¿Has hecho un backup de la BBDD antes de actualizar? `Que dices...` [Respuesta dicha con efusividad, y como diciendo que es super obvio que no hace nada de falta]
+- `Ostias!!!`
 
 ## 📈 Proyectos propios
 
