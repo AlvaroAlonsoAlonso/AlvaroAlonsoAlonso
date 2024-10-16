@@ -35,11 +35,12 @@ Soy Álvaro un humilde desarrollador frontend que hace autenticas **OBRAS DE ART
 - console.log('COJONESS').
 - En mi local funciona.
 - ¿Has borrado cache?
-- Dios, tremenda ñapa.
+- Dios, tremenda Ñapa!!!.
 - Se ha caído la web ¿Lo sabes?. `Lo sé, es más te voy a decir como lo he hecho`
 - Que asco tio!!`[Frase dicha con acento portugués]`
 - ¿Has hecho un backup de la BBDD antes de actualizar? `Que dices...` [Respuesta dicha con efusividad, y como diciendo que es super obvio que no hace nada de falta]
 - `Ostias!!!`
+- Borrar una maquia ec2 aws porque era tenía mucho coste y estaba mal montada y que digan: `¿Que haceis? No se puede borrar el conocimiento`
 
 ## 📈 Proyectos propios
 
