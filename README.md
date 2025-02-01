@@ -6,15 +6,30 @@ Soy Álvaro un humilde desarrollador frontend que hace autenticas **OBRAS DE ART
 
 - 🔭 Actualmente estoy trabajando como frontend developer, gestionado proyecto...etc
 
-## 🛠️ Herramientas y tecnologías que utilizo
+## 🛠️ Tecnologías y herramientas que uso a diario  
 
-- **HTML**
-- **CSS**
-- **SASS**
-- **JavaScript**
-- **GIT**
-- **Frameworks/Librerias**:  Vue , Nuxt , Astro.
-- **Herramientas de desarrollo**: Visual Studio Code, Chrome Developer Tools, etc.
+### 🚀 Lenguajes  
+- **HTML5**  
+- **CSS3 / SASS**  
+- **JavaScript (ES6+) / TypeScript**  
+
+### 📦 Frameworks & Librerías  
+- **Vue.js**  
+- **Nuxt.js**  
+- **Astro**  
+
+### 🔧 Desarrollo y Herramientas  
+- **Git & GitHub**  
+- **Visual Studio Code**  
+- **Chrome Developer Tools**  
+
+### ✅ Calidad y Mantenimiento de Código  
+- **ESLint** (Linter para JavaScript/TypeScript)  
+- **Stylelint** (Linter para CSS/SASS)  
+- **Prettier** (Formateador de código)  
+- **Commitlint** (Estandarización de mensajes de commit)  
+- **Husky** (Automatización de hooks en Git)  
+- **Lint-staged** (Ejecución de linters en archivos modificados)  
 
 ## 📚 Aprendizaje continuo
 
